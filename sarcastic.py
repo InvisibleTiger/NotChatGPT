@@ -100,3 +100,5 @@ while True:
     st.success("'" + sentence[0] + "' is sarcastic")
   else:
     st.error("'" + sentence[0] + "' isn't sarcastic")
+
+hninrg
